@@ -1,0 +1,10 @@
+  //frontend
+npm create vite@latest
+npm install tailwindcss @tailwindcss/vite
+npm install axios
+
+
+  //backend
+npm install express mongoose cors dotenv
+npm i mongodb
+npm install nodemon --save-dev
